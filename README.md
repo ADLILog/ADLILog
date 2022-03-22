@@ -10,7 +10,7 @@ This repositoiry contains the code implementation of ADLILog, a method for log-b
 
 The stored_model folder contains the model learned from the instructions. One can use the adlilog_train_finetune.py to finetune the model for the dataset of interest. The folder auxilairy_labels contains the "abnormal" class from the SL data, alongside other target system labels from SPIRIT and TBIRD. One 
 can find these datasets at https://github.com/logpai/loghub. The SL data can be found at https://zenodo.org/record/6376763.
-One can use the parser Drain.py to extract the events that are needed for the baseline. Please note that to give the appropriate credits to Pinjia He et al. [Drain: An Online Log Parsing Approach with Fixed Depth Tree](https://github.com/logpai/logparser/tree/master/logparser/Drain).
+One can use the parser Drain.py to extract the events that are needed for the baseline. Please note to give the appropriate credits to Pinjia He et al. [Drain: An Online Log Parsing Approach with Fixed Depth Tree](https://github.com/logpai/logparser/tree/master/logparser/Drain) if you use the parser.
 
 #### Code Structure
 
