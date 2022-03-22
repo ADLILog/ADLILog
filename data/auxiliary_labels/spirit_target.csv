@@ -1,0 +1,72 @@
+0
+data TLB error interrupt
+data storage interrupt
+ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*> <*>
+Lustre mount FAILED : <*> : point /p/gb1
+ciod: Error reading message prefix after <*> on CioStream socket to <*> <*> <*> <*> <*>
+rts: kernel terminated for reason <*>
+"Error receiving packet on tree network, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> PSR1=00000000 PRXF=00000002 PIXF=00000007"
+ciod: failed to read message prefix on control stream (CioStream socket to <*>
+Lustre mount FAILED : <*> : block_id : location
+rts panic! - stopping execution
+"rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, <*> <*> <*> <*>"
+ciod: Error creating node map from file <*> <*> <*> <*>
+ciod: Error reading message prefix on CioStream socket to <*> Connection timed out
+Microloader Assertion
+"rts: kernel terminated for reason <*> bad message header: <*> <*> <*> <*> cpu=0, <*> <*>"
+ciod: LOGIN <*> failed: <*> <*>
+Error: unable to mount filesystem
+ciod: Error creating node map from file <*> <*> <*> <*> <*>
+Power deactivated: <*>
+MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed
+MidplaneSwitchController::receiveTrain() iap failed: <*> <*> ec000000
+machine check <*>
+Power Good signal deactivated: <*> A service action may be required.
+machine check interrupt <*> <*> <*> <*> error
+machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+DDR machine check register: 0x00000000 <*>
+idoproxy communication failure: socket closed
+"rts: kernel terminated for reason 1002rts: bad message header: too many packets, <*> cpu=0, <*> <*> <*>"
+MidplaneSwitchController::sendTrain() port disconnected: R07-M1-L1-U19-E
+machine check interrupt <*> L2 dcache unit <*> <*> parity error
+ciodb exited abnormally due to signal: Aborted
+kernel panic
+MailboxMonitor::serviceMailboxes() lib_ido_error: -1033 BGLERR_IDO_PKT_TIMEOUT connection lost to node/link/service card
+MidplaneSwitchController::parityAlignment() pap failed: <*> <*> <*>
+no ethernet link
+mmcs_server exited abnormally due to signal: Aborted
+external input interrupt (unit=0x02 bit=0x00): uncorrectable torus error
+mmcs_server exited normally with exit code <*>
+No power module U58 found found on link card
+program interrupt
+power module status fault detected on node card. status registers are: <*>
+mmcs_server exited abnormally due to signal: Segmentation fault
+floating point <*> <*>
+L3 major internal error
+While inserting monitor info into DB caught java.lang.NullPointerException
+MidplaneSwitchController::clearPort() bll_clear_port failed: R63-M0-L0-U19-A
+rts assertion failed: `personality->version == BGLPERSONALITY_VERSION' in `void start()' at start.cc:131
+monitor caught java.lang.UnsupportedOperationException: power module <*> not present and is stopping
+machine check interrupt (bit=0x09): Torus/Tree/GI read error 0
+idoproxy communication failure: BGLERR_IDO_PKT_TIMEOUT connection lost to node/link/service card
+"rts assertion failed: `vaddr % PAGE_SIZE_1M == 0' in `int initializeAppMemory(int, TLBEntry&, unsigned int, unsigned int)' at mmu.cc:540"
+external input interrupt (unit=0x03 bit=0x01): tree header with no target waiting
+ciodb exited normally with exit code <*>
+"ddr: redundant bit steering failed, sequencer timeout"
+instruction TLB error interrupt
+monitor caught java.lang.IllegalStateException: while executing CONTROL Operation caught java.io.EOFException and is stopping
+"<*> <*> <*> failed, return code = -254 (Fatal error (Local Catastrophic Error))"
+SCSI error <0 1 0 0> return code = 0x40001
+LustreError <*> 0 (module.c 46 kportal_assertion_failed()) LBUG
+Losing some ticks... checking if CPU frequency changed.
+Call Trace <ffffffff802ffa89>{thread_return+79} <ffffffffa00c2496>{ sunrpc rpc_wake_up_next+350}
+Call Trace <*> <*>
+Instrumentation Service EventID 1404 Memory device status is critical Memory device location <*> Possible memory module event cause Single bit error logging disabled
+EXT3-fs error (device <*> ext3_journal_start_sb Detected aborted journal
+EXT3-fs error (device sda5) in start_transaction Journal has aborted
+EXT3-fs error (device sda3) in <*> IO failure
+Mounting <*> filesystems <*>
+"Instrumentation Service EventID 1404 Memory device status is critical Memory device location DIMM1_A Possible memory module event cause Single bit warning error rate exceeded,Single bit failure error rate exceeded"
+EXT3-fs error (device sda3) ext3_get_inode_loc unable to read inode block - <*> <*>
+ssh16890 general protection rip 2a95702087 rsp 7fbfffea88 error 0
+Out of Memory Killed process <*> <*>

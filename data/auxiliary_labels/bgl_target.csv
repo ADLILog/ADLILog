@@ -1,0 +1,48 @@
+0
+"kernel: cciss: cmd <*> has CHECK CONDITION, sense key = 0x3"
+kernel: EXT3-fs error (device <*> in <*> IO failure
+kernel: EXT3-fs error (device <*> ext3_get_inode_loc: unable to read inode block - <*> <*>
+kernel: hda: status error: status=0x00 { }
+kernel: hda: drive not ready for command
+<*> warning: mail_queue_enter: create file <*> Read-only file system
+"kernel: EXT3-fs error (device cciss0(104,3)): read_inode_bitmap: Cannot read inode bitmap - block_group = <*> inode_bitmap = <*>"
+"pbs_mom: scan_for_exiting, system epilog failed w/rc=1"
+kernel: EXT3-fs error (device <*> <*> <*> <*> <*> <*>
+"kernel: EXT3-fs error (device cciss0(104,3)): ext3_readdir: directory <*> contains a hole at offset 0"
+"pbs_mom: task_check, cannot tm_reply to <*> task 1"
+"pbs_mom: im_eof, Premature end of message from addr <*>"
+netfs: <*> <*> filesystems: <*>
+kernel: GM: LANai is not running. Allowing port=0 open for debugging
+"pbs_mom: Connection refused (111) in open_demux, open_demux: connect <*>"
+kernel: Call Trace: <*>
+"pbs_mom: Bad file descriptor (9) in tm_request, non-local connect"
+"pbs_mom: node_bailout, <*> POLL failed from node <*> <*>"
+"pbs_mom: Bad file descriptor (9) in tm_request, job <*> not running"
+<*> assertion failed. ./mapper-2xp/lx/lx_mapper.c:2112 (m->root)
+<*> authentication failure; <*> <*> euid=0 tty= <*> rhost= user=root
+kernel: Call Trace: <*> <*>
+<*> authentication failure; <*> <*> euid=0 tty= <*> rhost=
+gm_mapper[2057]: assertion failed. ./mapper-2xp/lx/lx.c:790 (i == m->num_xbars)
+"pbs_mom: scan_for_exiting, system epilog failed - interactive job"
+"kernel: cciss: cmd 0000010000a60264 has CHECK CONDITION, sense k10000a60000 has CHECK CONDITION, sense key = 0x3"
+"kernel: cciss: cmd 0000010000a60000 has CHECK d 0000010000a60000 has CHECK CONDITION, sense key = 0x3"
+"kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, ode=1200810, block=2424841"
+"kernel: EXT3-fs error (device cciss0(104,3)): ext3_get_inode_loc: unable to read inode block - inode=1nse key = 0x3"
+kernel: EXT3-fs error (device cciss0(x3
+kernel: GM: <*> <*> <*>
+"kernel: cciss: cmd 0000010000a60000 has CHECK CONDITION, sense ke0(104,3)) in ext3_reserve_inode_write: IO failure"
+"<*> <*> <*> failed, return code = -254 (Fatal error (Local Catastrophic Error))"
+SCSI error <0 1 0 0> return code = 0x40001
+LustreError <*> 0 (module.c 46 kportal_assertion_failed()) LBUG
+Losing some ticks... checking if CPU frequency changed.
+Call Trace <ffffffff802ffa89>{thread_return+79} <ffffffffa00c2496>{ sunrpc rpc_wake_up_next+350}
+Call Trace <*> <*>
+Instrumentation Service EventID 1404 Memory device status is critical Memory device location <*> Possible memory module event cause Single bit error logging disabled
+EXT3-fs error (device <*> ext3_journal_start_sb Detected aborted journal
+EXT3-fs error (device sda5) in start_transaction Journal has aborted
+EXT3-fs error (device sda3) in <*> IO failure
+Mounting <*> filesystems <*>
+"Instrumentation Service EventID 1404 Memory device status is critical Memory device location DIMM1_A Possible memory module event cause Single bit warning error rate exceeded,Single bit failure error rate exceeded"
+EXT3-fs error (device sda3) ext3_get_inode_loc unable to read inode block - <*> <*>
+ssh16890 general protection rip 2a95702087 rsp 7fbfffea88 error 0
+Out of Memory Killed process <*> <*>
