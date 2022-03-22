@@ -1,6 +1,6 @@
 ### ADLILog: Leveraging Log Instructions in Log-based Anomaly Detection
 
-This repositoiry contains the code implementation of ADLILog, a method for log-based anomaly detection in distributed IT systems. 
+This repositoiry contains the code implementation of ADLILog, a method for log-based anomaly detection in IT systems. 
 
 ### To Start:
 1. Clone the reposistoriy: git clone https://github.com/ADLILog/ADLILog.git
