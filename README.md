@@ -14,7 +14,7 @@ One can use the parser Drain.py to extract the events that are needed for the ba
 
 #### Code Structure
 
-|data
+|---data
 |--- auxiliary_labels
 |models
 |---implementations
