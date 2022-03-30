@@ -14,15 +14,15 @@ One can use the parser Drain.py to extract the events that are needed for the ba
 
 #### Code Structure
 
-|data
-|--- auxiliary_labels
-|models
-|---implementations
-|------ADLILog
-|--------- stored_model
-|--------- model
-|--------- adlilog.py
-|--------- adlilog_train_finetune.py
-|--------- tokenizer.py
-|--------- utils.py
-|parsing
+    |data
+    |--- auxiliary_labels
+    |models
+    |---implementations
+    |------ADLILog
+    |--------- stored_model
+    |--------- model
+    |--------- adlilog.py
+    |--------- adlilog_train_finetune.py
+    |--------- tokenizer.py
+    |--------- utils.py
+    |parsing
